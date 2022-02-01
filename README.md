@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![output](./out1.jfif)
+![output](./out2.jfif)
+![output](./out3.jfif)
 
 
 ## Result:
